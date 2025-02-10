@@ -593,15 +593,19 @@ section,
 
 #hero .social-links {
   margin-top: 30px;
+  position: static;
+  z-index: 3;
 }
 
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
+  color: #ffffff;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 
 #hero .social-links a:hover {
