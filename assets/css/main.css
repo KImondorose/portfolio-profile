@@ -16,7 +16,7 @@
 :root {
   --default-font: "Palatino Linotype", serif;
   --heading-font: "Consolas", monospace;
-  --nav-font: "Palatino Linotype", serif;
+  --nav-font: "Menlo", monospace;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 :root {
   --nav-color: #a8a9b4;  /* The default color of the main navmenu links */
   --nav-hover-color: #ffffff; /* Applied to main navmenu links when they are hovered over or active */
-  --nav-mobile-background-color: #29ae32; /* Used as the background color for mobile navigation menu */
+  --nav-mobile-background-color: #040b14; /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #040b14; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #a8a9b4; /* Used for navigation links of the dropdown items in the navigation menu. */
   --nav-dropdown-hover-color: #ffffff; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
@@ -257,7 +257,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 .mobile-nav-toggle {
-  display: inside;
+  display: none;
 }
 
 .navmenu {
