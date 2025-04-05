@@ -241,10 +241,10 @@ h6 {
   height: 40px;
   border-radius: 50%;
   cursor: pointer;
-  position: fixed;
+  position: absolute !important;
   top: 15px;
   right: 15px;
-  z-index: 9999;
+  z-index: 9999999999;
   transition: background-color 0.3s;
 }
 
@@ -262,7 +262,7 @@ h6 {
 
 .navmenu {
   padding: 0;
-  z-index: 9997;
+  z-index: 997;
 }
 
 .navmenu ul {
@@ -1357,11 +1357,3 @@ section,
   background-color: #263b35; /* Darker green on hover */
 }
 
-/* Add to the end of main.css */
-.header-toggle svg.bi-list-fallback {
-  color: #ffffff; /* White */
-  width: 22px;
-  height: 22px;
-  display: block; /* Helps center in flex container */
-  margin: auto; /* Helps center in flex container */
-}
