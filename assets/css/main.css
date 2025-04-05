@@ -16,7 +16,7 @@
 :root {
   --default-font: "Palatino Linotype", serif;
   --heading-font: "Consolas", monospace;
-  --nav-font: "Menlo", monospace;
+  --nav-font: "Palatino Linotype", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
