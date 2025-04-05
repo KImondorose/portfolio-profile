@@ -12,7 +12,7 @@
   /**
    * Header toggle
    */
-  const headerToggleBtn = document.querySelector('.header-toggle');
+  const mobileNavToggle = document.querySelector('.mobile-nav-toggle-char'); // <<< NEW SELECTOR
 
   function headerToggle() {
     document.querySelector('#header').classList.toggle('header-show');
