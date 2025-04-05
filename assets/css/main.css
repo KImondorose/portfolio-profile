@@ -1356,3 +1356,12 @@ section,
 .resume-button:hover {
   background-color: #263b35; /* Darker green on hover */
 }
+
+/* Add to the end of main.css */
+.header-toggle svg.bi-list-fallback {
+  color: #ffffff; /* White */
+  width: 22px;
+  height: 22px;
+  display: block; /* Helps center in flex container */
+  margin: auto; /* Helps center in flex container */
+}
