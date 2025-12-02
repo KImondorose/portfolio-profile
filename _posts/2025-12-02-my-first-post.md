@@ -1,10 +1,15 @@
 ---
-title: "My First Blog Post"
+title: "Welcome"
 layout: post
 ---
 
 Welcome to my new blog!  
 
+Here I will share snippets of my life. 
+
+Enjoy!!
+
+
 This blog is now fully hosted on GitHub Pages and uses Jekyll.  
-You can write in Markdown, include images, links, and code snippets.
-It uses the Hacker theme which I think is pretty cool.
+You can write in Markdown, include images, links, and code snippets. 
+It uses the Hacker theme which I think is pretty cool. 
