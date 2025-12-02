@@ -1,13 +1,15 @@
 ---
 title: "Welcome"
 layout: post
+author: "Rose Kimondo" 
+tags: ["personal", "intro"] 
 ---
 
 Welcome to my new blog!  
 
 Here I will share snippets of my life. 
 
-Enjoy!!
+Enjoy!! 
 
 
 This blog is now fully hosted on GitHub Pages and uses Jekyll.  
