@@ -1,6 +1,8 @@
-title: Rose Kimondo
+title: Rose-Coded
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 feed:
   path: feed.xml
+  filters:
+    tag: outreachy
