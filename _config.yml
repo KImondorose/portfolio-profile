@@ -1,2 +1,6 @@
 title: Rose Kimondo
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+feed:
+  path: feed.xml
