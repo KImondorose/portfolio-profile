@@ -1356,3 +1356,9 @@ section,
 .resume-button:hover {
   background-color: #263b35; /* Darker green on hover */
 }
+
+.post-content h2 {
+  color: #ff6600;   /* Your desired color */
+  font-weight: bold; /* Optional */
+  margin-top: 1.5em; /* Optional spacing */
+}
