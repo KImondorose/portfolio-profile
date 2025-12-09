@@ -9,6 +9,7 @@ tags: ["outreachy"]
 
 Hello! 👋  
 **Rose Kimondo** here, and I’m thrilled to be starting my Outreachy internship working on the [**OpenStack Manila Dashboard- Manila UI**](https://github.com/openstack/manila-ui).  
+  
 My mentors are [Goutham Pacha Ravi](https://github.com/gouthampacha) and [Carlos da Silva](https://github.com/silvacarloss).  
 
 ### A Bit About Me
@@ -63,3 +64,5 @@ I’m excited to contribute to **new features in the Manila Dashboard**, includi
 Beyond technical skills, I hope to deepen my understanding of **open-source community collaboration**, improve my Python expertise, and leave a lasting and meaningful impact on the OpenStack ecosystem.  
 
 I’m looking forward to this journey and sharing my experiences in upcoming blog posts. Stay tuned! 🚀
+
+* * *
