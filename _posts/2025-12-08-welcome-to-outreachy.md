@@ -77,6 +77,6 @@ Beyond technical skills, I hope to deepen my understanding of **open-source comm
 
 This first week, I am setting up my local environment to be able to test any code changes that I make, and it is exciting, but challenging as it is with these set-ups.  Wish me luck! 😉 😉  
 
-I’m looking forward to this journey and sharing my experiences in upcoming blog posts. Stay tuned! 🚀
+I’m looking forward to this journey and sharing my experiences in upcoming blog posts. I hope to document my experiences each week.  
 
 * * *
