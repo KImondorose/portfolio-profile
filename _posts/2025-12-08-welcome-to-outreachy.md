@@ -18,9 +18,9 @@ I come from a background in **Data Science and Software Development**, with expe
 
 I also enjoy exploring open-source software, contributing to community projects, and learning new tools along the way.  
 
-My tech career is a pivot from the construction sector, but that is a story for another day. 
+My tech career is a pivot from the construction sector, but that is a story for another day.  
 
-* * * 
+* * *
 
 #### Side Quests
 
