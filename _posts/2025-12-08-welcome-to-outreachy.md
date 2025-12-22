@@ -12,7 +12,7 @@ Hello! 👋
   
 My mentors are [Goutham Pacha Ravi](https://github.com/gouthampacha) and [Carlos da Silva](https://github.com/silvacarloss).  
 
-### A Bit About Me
+## A Bit About Me
 
 I come from a background in **Data Science and Software Development**, with experience in Python, SQL, and building web applications.  
 
@@ -22,13 +22,13 @@ My tech career is a pivot from the construction sector, but that is a story for 
 
 * * *
 
-#### Side Quests
+### Side Quests
 
 Besides my tech side, I consider myself adventurous. When I'm not coding, you will find me hiking, running, swimming, camping, and on a slow day, reading or crotcheting.😄😄  
 
 * * *
 
-### Why Outreachy?
+## Why Outreachy?
 
 I applied to Outreachy because I wanted the opportunity to contribute to **real-world open-source projects** in a structured mentorship environment. The prospect of learning from experienced developers while working on **cloud infrastructure software** like OpenStack motivated me to push through all the application stages, from preparing my initial application to navigating Git workflows and understanding community contribution guidelines.  
 
@@ -40,7 +40,7 @@ For the contribution, I narrowed down on the Manila project fast as it was the m
 
 * * *
 
-### The Contribution Period
+## The Contribution Period
 
 During the contribution phase, I explored the **Manila codebase**, set up a local development environment, and familiarized myself with its architecture. I also reviewed documentation, and submitted multiple fixes via **Gerrit**.  
 
@@ -56,7 +56,7 @@ I was and still am pretty nervous and unsure of some of the things that I am doi
   
 * * *
 
-### My Proudest Contributions
+## My Proudest Contributions
 
 Even in these early days, I’m proud of:  
 
@@ -69,7 +69,7 @@ Even in these early days, I’m proud of:
 
 * * *
 
-### What I Hope to Gain
+## What I Hope to Gain
 
 I’m excited to contribute to **new features in the Manila Dashboard**, including metadata management for shares, snapshots, and access rules.  
 
