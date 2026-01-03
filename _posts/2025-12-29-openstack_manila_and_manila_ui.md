@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenStack Manila Structure and Commands"
-date: 2025-12-22
+date: 2025-12-29
 categories: [Outreachy, OpenStack, Internship]
 author: "Rose Kimondo" 
 tags: ["outreachy"] 
