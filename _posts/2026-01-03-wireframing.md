@@ -63,6 +63,16 @@ Wireframing has been an eye-opening part of my Outreachy journey. It taught me t
 
 ---
 
+### Wireframes for Other Features I am Implementing
+
+**[Share Snapshot Metadata](https://app.diagrams.net/#G17BkVxr9lEujv4aEIzNEophLn2V1ve6ov)**  
+**[Share Network Subnets Metadata](https://app.diagrams.net/#G1-ihdUhlYXq4dBVn_3ySnOkUewO6qaiCM#%7B%22pageId%22%3A%22SyZlTGimq5AyW91jnrDM%22%7D)**  
+**[Resource Locks Panel](https://app.diagrams.net/#G1tlOAfkIYrwrKcg0X_KyHDVzY-Oz-WDc6#%7B%22pageId%22%3A%22Z4d5qA5JSO2ReDIBfbEI%22%7D)**  
+**[Access Rule Locks](https://app.diagrams.net/#G1_MISrScxP7OffOS8qipip4CwCtcTakhc#%7B%22pageId%22%3A%22xtgie1VdkAJAhFkf50Ag%22%7D)**  
+**[Share Deletion Locks](https://app.diagrams.net/#G1tFtFijkOMOf2Z3ck7r6dUbXr7eZCq-zq#%7B%22pageId%22%3A%22AZzZnc4egOZRNIlnPf8d%22%7D)**  
+
+---
+
 > **Tip:** Don't be afraid to put down the code and pick up a design tool. It helps you catch "logic bugs" before they ever reach your IDE.  
 
 ---
