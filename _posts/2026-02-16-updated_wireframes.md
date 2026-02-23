@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Updating My Initial Wireframes"
-date: 2026-02-10
+date: 2026-02-16
 categories: [Outreachy, OpenStack, Internship]
 author: "Rose Kimondo" 
 tags: ["outreachy"] 
